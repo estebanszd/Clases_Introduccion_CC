@@ -33,4 +33,3 @@ En esta sección encontrarás el acceso directo a los materiales de clase. Los a
 
 ---
 
-   git clone [https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git)
